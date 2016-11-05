@@ -1,0 +1,8 @@
+/.cproject
+/.project
+/.settings
+*.o
+src/dadsr
+src/dmultisine
+src/dsine
+src/gaincontrol
